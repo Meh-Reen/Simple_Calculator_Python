@@ -9,7 +9,6 @@ This is a beginner-friendly Python project — a Simple Calculator that can perf
 
 ## 🛠️ Tools Used
 - Python (basic syntax)
-- ....................
 - `input()`, `print()`
 - `if`, `elif`, `else` statements
 - Float conversion and arithmetic operators
